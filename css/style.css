@@ -1,0 +1,55 @@
+.card-footer{
+    background-color: white;
+}
+
+.card-novaaposta{
+    max-width: 930px;
+}
+
+.form-check{
+    min-width: 65px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.form-check-input{
+    width: 25px;
+    height: 25px;
+}
+
+.form-check-label{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.imagem-novaaposta{
+    max-height: 300px;
+}
+
+.numeros .badge-pill{
+    min-width: 55px;
+    margin-bottom: 3px;
+}
+
+@media (max-width: 576px) { 
+
+    .form-check{
+        min-width: 45px;
+        margin-bottom: 15px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .form-check-input{
+        width: 20px;
+        height: 20px;
+    }
+
+    .form-check-label{
+        font-size: 15px;
+        font-weight: bold;
+        margin-right: 3px;
+    }
+
+} 
