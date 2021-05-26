@@ -1,5 +1,7 @@
 <h1>Frontend "The Lottery"</h1>
 
+https://reafreitas1.github.io/lotto/
+
 <h2>Resources Used</h2>
 
 <li><i class="fab fa-html5" aria-hidden="true"></i> HTML</a></li>
