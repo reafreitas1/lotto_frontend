@@ -14,7 +14,7 @@ https://reafreitas1.github.io/lotto/
 
 <h2>About Project</h2>
 
-<h4>Front-end project of a lottery, where the user registers on the website to have access to real money bets and win prizes. In addition to betting, the user can connect with other users by sending messages, printing a report of their results with visual graphics and visualizing their bets. I am currently developing the Back-end in Java 11 to complete this project.</h4>
+<h4>Frontend project: "The Lottery". 🍀 Where the user registers on the website to have access to real money bets and win prizes. 💰 Developing backend to complete this project.</h4>
 
 **Login "The Lottery"**
 ![Login](https://user-images.githubusercontent.com/79333175/118897605-8b1def00-b902-11eb-9399-4fa7636083d1.jpg)
