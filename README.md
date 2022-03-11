@@ -10,7 +10,7 @@ https://reafreitas1.github.io/lotto/
 <li><i class="fab fa-js" aria-hidden="true"></i> JavaScript</a></li>
 <li><i class="custom">jQ</i> Jquery</a></li>
 <li><i class="fab fa-node-js"></i> Node.js</a></li>
- <li><i class="far fa-circle"></i> JSon</a></li>
+ <li><i class="far fa-circle"></i> JSON</a></li>
 
 <h2>About Project</h2>
 
