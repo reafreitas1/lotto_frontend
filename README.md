@@ -1,6 +1,6 @@
 <h1>Frontend "The Lottery"</h1>
 
-https://reafreitas1.github.io/lotto/
+https://reafreitas1.github.io/lotto_frontend/
 
 <h2>Resources Used</h2>
 
